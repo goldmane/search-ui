@@ -101,7 +101,7 @@
     "karma-phantomjs-launcher": "^1.0.0",
     "karma-spec-reporter": "0.0.26",
     "merge-stream": "^1.0.0",
-    "node-fetch": "^1.5.3",
+    "node-fetch": "^2.6.1",
     "node-sass": "^4.0",
     "npm-cli-login": "0.0.10",
     "null-loader": "^0.1.1",
